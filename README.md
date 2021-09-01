@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabMacc
-- 👀 I’m interested in firm dynamics, labor economics especially team production and search and matching model.
-- 🌱 I’m currently learning how to improve on simulation methods.
+- 👀 I’m interested in firm dynamics, labor economics especially team production and search and matching models.
+- 🌱 I’m currently learning how to improve my quantitative skills especially for simulation purposes.
 - 💞️ I’m looking to collaborate on new projects researching aound questions like how firm grow, why people sort into certain jobs and what influences overall wage inequality.
 - 📫 How to reach me: gabriele.macci@eui.eu or visit my website https://www.gabrielemacci.com/
 
